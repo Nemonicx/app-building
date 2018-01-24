@@ -53,7 +53,4 @@
 		<icon src="file://D:\nemon\Documents\Final-year-Project\app-build-adobe\www\img\rsz_2logo.png" qualifier="xxxhdpi" />
 		<splash src="file://D:\nemon\Documents\Final-year-Project\app-build-adobe\www\img\rsz_1stock-photo-group-of-people-with-devices-in-hands-working-together-and-symbol-of-net-security-and-protection-628097765.png" qualifier="" />
 		</platform>
-		<platform name="winphone">
-		</platform>
-		 <icon src="icon.png" />
 		</widget>
