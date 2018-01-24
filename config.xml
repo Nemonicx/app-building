@@ -44,7 +44,7 @@
    <preference name="LoadUrlTimeoutValue" value="null" />
    <platform name="ios" />
    <platform name="android">
-      <icon src="file://D:\nemon\Documents\Final-year-Project\app-build-adobe\www\img\rsz_2logo.png" qualifier="xxxhdpi" />
-      <splash src="file://D:\nemon\Documents\Final-year-Project\app-build-adobe\www\img\rsz_1stock-photo-group-of-people-with-devices-in-hands-working-together-and-symbol-of-net-security-and-protection-628097765.png" qualifier="" />
+           <icon src="/www/img/rsz_2logo.png" qualifier="xxxhdpi" />
+      <splash src="/www/img/rsz_1stock-photo-group-of-people-with-devices-in-hands-working-together-and-symbol-of-net-security-and-protection-628097765.png" qualifier="xhdpi" />
    </platform>
 </widget>
